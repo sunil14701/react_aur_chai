@@ -1,1 +1,43 @@
-## WILL COMPLETE THIS SERIES
+1. why react?
+ans: makes esay to manage and build complex frontends. 
+ultimately react will be converting to html, css, JS.
+react is functional based component, in legacy -> class based component was used
+
+2. when should i learn react?
+ans: after mastering JS 
+
+3. why react was created?
+ans: phantom/ghost message problem
+solve communication between state -> JS and UI ->DOM
+initial adopted by khan academy and unsplash
+
+4. react learning process
+ans: 1. go in depth -> concept wise -> babel, fiber, virtual dom, diff algo, hydration
+     2. by making projects(one topic at a time). todo, calculator, github API
+
+5. react is a library
+ans: framework(rulebook, military rules) vs library(cool dude)
+
+6. topics to learn
+ans:
+    1. core of react (state or UI manipulation, JSX -> html in JS)
+    2. component resuability
+    3. reusing of component(props)
+    4. how to propagate change(hooks)
+    5. SPA -> single page application
+
+7. additional addons to react
+ans:
+    1. route (react don't have router)
+    2. state management (react don't have state management)
+        - used -> redux, redux toolkit, zustand, context API 
+    3. class based component 
+        - used -> legacy code 
+    4. BAAS apps(appwrite, firebase, supabase, freeapi.app)
+        - social media clone, e-commerce app 
+
+8. after react
+    - react is not a complete solution in most case
+        - no seo, browser render of JS, no routing
+    - framework 
+        - nextJS(BE+FE), gatsby, remix
