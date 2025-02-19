@@ -41,3 +41,32 @@ ans:
         - no seo, browser render of JS, no routing
     - framework 
         - nextJS(BE+FE), gatsby, remix
+
+-----------------------------------------------------------------------------------
+1. tools
+    1. vs code
+    2. node runtime
+    3. react docs
+    4. git/github 
+
+2. vite is a bundler
+
+3. react + react-dom -> website dev
+react + react-native -> mobile app dev
+
+4. npm, npx(node package executor)
+    1. command: npx create-react-app my_react_app
+        - create-react-app is called utility
+    2. use vite bundler 
+        - npm create vite@latest
+        - npm install
+    - first read package.json to read project
+
+---------------------------------------------------------------------
+1. there will be only one html file to make it SPA
+2. react create its virtual dom and compare it with the browser dom
+3. strictmode -> for dev mode
+4. use fragments to wrap various tags so that it will return as single entity.
+5. components name should be in pascal casing
+
+resume next -> 1:44:11
